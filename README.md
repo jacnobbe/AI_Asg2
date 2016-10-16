@@ -6,6 +6,8 @@
 2. Search(es)
     * Searching through all possible moves calculated in 1. 
 3. Output Results
+
+
 -----------------------------------------------------------------------------
 TO DO: 
   * Create file chooser to accept initial game board

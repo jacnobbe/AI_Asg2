@@ -1,9 +1,8 @@
 # AI_Asg2
-
-1. Pregame werk
+1. Pregame Werk
     * Program accepts game board and other relavant information (specify)
     * Calculate board positions / possible move directions for each peg
-    * Calculate all possible moves for all pegs (71)
+    * Calculate all possible moves for all pegs (71).
 2. Search(es)
     * Searching through all possible moves calculated in 1. 
 3. Output Results

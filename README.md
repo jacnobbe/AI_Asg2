@@ -6,6 +6,12 @@
 2. Search(es)
     * Searching through all possible moves calculated in 1.
     * Scan board to see if all pegs are still playable. If not, try somewhere else.
+    * Types of searches: 
+         * Depth-First
+         * Breadth-First
+         * Uniform-Cost
+         * Greedy-Best First
+         * A*
 3. Output Results
 
 
